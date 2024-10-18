@@ -1,0 +1,43 @@
+.tarjeta {
+width: 300px;
+height: 200px;
+background-color: #fff;
+border: 1px solid #ddd;
+border-radius: 10px;
+box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.contenido {
+padding: 20px;
+}
+
+.contenido h2 {
+font-size: 24px;
+margin-bottom: 10px;
+}
+
+.contenido p {
+font-size: 16px;
+margin-bottom: 20px;
+}
+
+.contenido button {
+background-color: #4CAF50;
+color: #fff;
+border: none;
+padding: 10px 20px;
+font-size: 16px;
+cursor: pointer;
+}
+
+.contenido button:hover {
+background-color: #3e8e41;
+}
+.contenido button a {
+text-decoration: none;
+color: #fff;
+}
+
+.contenido button a:hover {
+text-decoration: underline;
+}
